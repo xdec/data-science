@@ -1,13 +1,14 @@
-# Data Science Library
+# Data Science Library :books:
 ### A repository with templates and projects related to data science
 
 ---
 
+Hi :wave:  
 Welcome to my repository for data science!  
   
 Feel free to use any of the templates in this library for your data science projects.
 
-### Templates
+### Templates :bookmark_tabs:
 
 ---
 
