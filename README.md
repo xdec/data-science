@@ -1,5 +1,5 @@
 # Data Science Library
-## A repository with templates and projects related to data science
+### A repository with templates and projects related to data science
 
 ---
 
