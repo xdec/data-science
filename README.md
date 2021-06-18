@@ -1,7 +1,7 @@
 # Data Science Library :books:
 ##### A repository with templates and projects related to data science
-- Created by: Xavier De Carvalho
-- Created on: 18/06/2021
+- **Created by:** Xavier De Carvalho
+- **Created on:** 18/06/2021
 
 ### Introduction :raising_hand:
 
