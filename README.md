@@ -16,6 +16,7 @@ Feel free to use any of the templates in this library for your data science proj
 
 ---
 
+#### Notebooks :notebook:
 1. Simple Linear Regression for CSV Files - [here](/python/notebooks/machine-learning/regression/simple-linear-regression-csv.ipynb "Go to file hosted on Github")
 2. K-Nearest Neighbour for CSV Files - [here](/python/notebooks/machine-learning/classification/knn/k-nearest-neighbour-csv.ipynb "Go to file hosted on Github")
 3. K-Means for CSV Files - [here](/python/notebooks/machine-learning/clustering/kmeans/kmeans-csv.ipynb "Go to file hosted on Github")
