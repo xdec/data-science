@@ -2,7 +2,7 @@
 ## A repository with templates and projects related to data science
 
 ```
-Date Created: 18/06/2021     
+Date Created: 18/06/2021
 Author: Xavier De Carvalho
 ```
 
@@ -19,15 +19,21 @@ Feel free to use any of the templates in this library for your data science proj
 
 ---
 
-#### Notebooks :notebook:     
+#### Notebooks :notebook:
 
 Type | Model | File Name | Link
 ---|---|---|---
-Deep Learning | LSTM | Named Entity Recognition | [View](/python/notebooks/machine-learning/deep-learning/named-entity-recognition.ipynb)     
-Classification | KNN | K-Nearest Neighbour for CSV Files | [View](/python/notebooks/machine-learning/classification/knn/k-nearest-neighbour-csv.ipynb "Go to file hosted on Github")     
-Clustering | K-Means | K-Means for CSV Files | [View](/python/notebooks/machine-learning/clustering/kmeans/kmeans-csv.ipynb "Go to file hosted on Github")   
-Regression | Linear Regression | Simple Linear Regression for CSV Files | [View](/python/notebooks/machine-learning/regression/simple-linear-regression-csv.ipynb "Go to file hosted on Github")     
-Regression | Linear Regression | Multiple Linear Regression for CSV Files | [View](/python/notebooks/machine-learning/regression/multiple-linear-regression-csv.ipynb)       
+Deep Learning | LSTM | Named Entity Recognition | [View](/python/notebooks/machine-learning/deep-learning/neural-networks/RNN/LSTM/named-entity-recognition.ipynb)
+Classification | KNN | K-Nearest Neighbour for CSV Files | [View](/python/notebooks/machine-learning/classification/knn/k-nearest-neighbour-csv.ipynb "Go to file hosted on Github")
+Clustering | K-Means | K-Means for CSV Files | [View](/python/notebooks/machine-learning/clustering/kmeans/kmeans-csv.ipynb "Go to file hosted on Github")
+Regression | Linear Regression | Simple Linear Regression for CSV Files | [View](/python/notebooks/machine-learning/regression/simple-linear-regression-csv.ipynb "Go to file hosted on Github")
+Regression | Linear Regression | Multiple Linear Regression for CSV Files | [View](/python/notebooks/machine-learning/regression/multiple-linear-regression-csv.ipynb)
+
+#### Tutorials :keyboard:
+
+Type | Tutorial | Author | Resource | Link
+---|---|---|---|---
+TensorFlow | Basic classification: Classify images of clothing | tensorflow.org | [Notebook](/python/notebooks/machine-learning/deep-learning/neural-networks/tensorflow/keras/tutorials/Image_Classifier_For_Clothing.ipynb) | [Tutorial](https://www.tensorflow.org/tutorials/keras/classification)
 
 ---
 
