@@ -1,11 +1,10 @@
 # Data Science Library :books:
 ## A repository with templates and projects related to data science
 
-Date Created | Author
----|---
-18/06/2021 | Xavier De Carvalho
-
----
+```
+Date Created: 18/06/2021     
+Author: Xavier De Carvalho
+```
 
 ### Introduction :raising_hand:
 
@@ -35,5 +34,6 @@ Regression | Linear Regression | Multiple Linear Regression for CSV Files | [Vie
 ### Changelog :wrench:
 
 Date Updated | Editor | Changelog
----|---|---
+:---:|---|---
 12/08/2021 | Xavier De Carvalho |  <ol><li>Created Multiple Linear Regression notebook</li><li>Created Named Entity Recognition LSTM notebook</li></ol>
+18/06/2021 | Xavier De Carvalho | <ol><li>First Commit</li></ol>
