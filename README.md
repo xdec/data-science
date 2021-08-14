@@ -24,6 +24,7 @@ Feel free to use any of the templates in this library for your data science proj
 Type | Model | File Name | Link
 ---|---|---|---
 Deep Learning | LSTM | Named Entity Recognition | [View](/python/notebooks/machine-learning/deep-learning/neural-networks/RNN/LSTM/named-entity-recognition.ipynb)
+Deep Learning | GAN | Basic GAN | [View](/python/notebooks/machine-learning/deep-learning/neural-networks/GAN/basic-generative-adverserial-network.ipynb)
 Classification | KNN | K-Nearest Neighbour for CSV Files | [View](/python/notebooks/machine-learning/classification/knn/k-nearest-neighbour-csv.ipynb "Go to file hosted on Github")
 Clustering | K-Means | K-Means for CSV Files | [View](/python/notebooks/machine-learning/clustering/kmeans/kmeans-csv.ipynb "Go to file hosted on Github")
 Regression | Linear Regression | Simple Linear Regression for CSV Files | [View](/python/notebooks/machine-learning/regression/simple-linear-regression-csv.ipynb "Go to file hosted on Github")
