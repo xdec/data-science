@@ -51,7 +51,7 @@ Neural Network | Multi-Input | Python | NumPy | Elementary Level Multi-Input Neu
 Neural Network | Multi-IO | Python | NumPy | Elementary Level Multi-IO Neural Network | [View](/python/scripts/deep-learning/neural-networks/numpy/elementary-level-multiple-io-neural-network-numpy.py)
 Machine Learning | Regression | Python | None | Absolute Linear Regression Trick | [View](/python/scripts/machine-learning/regression/absolute-linear-regression-trick.py)
 Machine Learning | Regression | Python | None | Simple Linear Regression Trick | [View](/python/scripts/machine-learning/regression/simple-linear-regression-trick.py)
-Deep Learning | CNN | Python | Tensorflow | MNIST Fashion Classifier Model | [View](/python/scripts/neural-networks/tensorflow/keras/mnist-fashion-classifier-cnn-model.py)
+Deep Learning | CNN | Python | Tensorflow | MNIST Fashion Classifier Model | [View](/python/scripts/deep-learning/neural-networks/tensorflow/keras/mnist-fashion-classifier-cnn-model.py)
 
 ---
 
