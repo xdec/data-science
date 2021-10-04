@@ -41,10 +41,10 @@ TensorFlow | Basic classification: Classify images of clothing | tensorflow.org 
 
 Type | Sub-Type | Language | Library | Name | Link
 ---|---|---|---|---|---
-Math | Vectors | Python | None | Elementwise Addition | [View](/python/scripts/deep-learning/math/vectors/elementwise-addition.py)
-Math | Vectors | Python | None | Elementwise Multiplication | [View](/python/scripts/deep-learning/math/vectors/elementwise-multiplication.py)
-Math | Vectors | Python | None | Vector Average | [View](/python/scripts/deep-learning/math/vectors/vector-average.py)
-Math | Vectors | Python | None | Vector Sum | [View](/python/scripts/deep-learning/math/vectors/vector-sum.py)
+Math | Linear Algebra | Python | None | Elementwise Addition | [View](/python/scripts/deep-learning/math/vectors/elementwise-addition.py)
+Math | Linear Algebra | Python | None | Elementwise Multiplication | [View](/python/scripts/deep-learning/math/vectors/elementwise-multiplication.py)
+Math | Linear Algebra | Python | None | Vector Average | [View](/python/scripts/deep-learning/math/vectors/vector-average.py)
+Math | Linear Algebra | Python | None | Vector Sum | [View](/python/scripts/deep-learning/math/vectors/vector-sum.py)
 Neural Network | Multi-Input | Python | None | Elementary Level Multi-Input Neural Network | [View](/python/scripts/deep-learning/neural-networks/standard-python/elementary-level-multiple-input-neural-network-std-python.py)
 Neural Network | Multi-IO | Python | None | Elementary Level Multi-IO Neural Network | [View](/python/scripts/deep-learning/neural-networks/standard-python/elementary-level-multiple-io-neural-network-std-python.py)
 Neural Network | Multi-Input | Python | NumPy | Elementary Level Multi-Input Neural Network | [View](/python/scripts/deep-learning/neural-networks/numpy/elementary-level-multiple-input-neural-network-numpy.py)
