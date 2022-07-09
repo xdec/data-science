@@ -51,6 +51,7 @@ Neural Network | Multi-Input | Python | NumPy | Elementary Level Multi-Input Neu
 Neural Network | Multi-IO | Python | NumPy | Elementary Level Multi-IO Neural Network | [View](/python/scripts/deep-learning/neural-networks/numpy/elementary-level-multiple-io-neural-network-numpy.py)
 Machine Learning | Regression | Python | None | Absolute Linear Regression Trick | [View](/python/scripts/machine-learning/regression/absolute-linear-regression-trick.py)
 Machine Learning | Regression | Python | None | Simple Linear Regression Trick | [View](/python/scripts/machine-learning/regression/simple-linear-regression-trick.py)
+Machine Learning | Regression | Python | None | Linear Regression Algorithm | [View](/python/scripts/machine-learning/regression/linear-regression-algorithm.py)
 Deep Learning | CNN | Python | Tensorflow | MNIST Fashion Classifier Model | [View](/python/scripts/deep-learning/neural-networks/tensorflow/keras/mnist-fashion-classifier-cnn-model.py)
 
 ---
@@ -59,6 +60,7 @@ Deep Learning | CNN | Python | Tensorflow | MNIST Fashion Classifier Model | [Vi
 
 Date Updated | Editor | Changelog
 :---:|---|---
+09/07/2022 | Xavier De Carvalho | <ol><li>Added Linear Regression Algorithm Script</li></ol>
 04/10/2021 | Xavier De Carvalho |  <ol><li>Created Elementwise Addition Script</li><li>Created Elementwise Multiplication Script</li><li>Created Vector Average Script</li><li>Created Vector Sum Script</li><li>Created Elementary Level Multi-Input Nerual Network Standard Python Script</li><li>Created Elementary Level Multi-IO Nerual Network Standard Python Script</li><li>Created Elementary Level Multi-Input Nerual Network Python NumPy Script</li><li>Created Elementary Level Multi-IO Nerual Network Python NumPy Script</li><li>Created Absolute Linear Regression Trick Script</li><li>Created Simple Linear Regression Trick Script</li><li>Created MNIST Fashion Classifier Script</li><li>Created Experiment With Pooling and Filters Notebook</li></ol>
 12/08/2021 | Xavier De Carvalho |  <ol><li>Created Multiple Linear Regression Notebook</li><li>Created Named Entity Recognition LSTM Notebook</li></ol>
 18/06/2021 | Xavier De Carvalho | <ol><li>First Commit</li></ol>
